@@ -71,3 +71,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
+# My settings
+Assets/CreativeCore_Prototyping/
+Assets/CreativeCore_Prototyping.meta
